@@ -1,0 +1,2 @@
+# magangGete
+Latihan JavaScript
