@@ -9,6 +9,7 @@
   "author": "Dion Iwa",
   "license": "ISC",
   "dependencies": {
+    "node-emoji": "^1.10.0",
     "superheroes": "^3.0.0"
   }
 }
